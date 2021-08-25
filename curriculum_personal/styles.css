@@ -1,0 +1,42 @@
+body{
+
+    font-family: 'Zen Loop', cursive;
+    font-size: x-large;
+}
+
+header{
+
+    background-color:grey ;
+    color:#005677 ;
+    background-size: auto 30px;
+    text-align: center;
+}
+
+
+#img1 {
+    width: 70px;
+    height: 50px;
+    margin-top: 5px;
+}
+
+span{
+
+    font-weight: bold;
+}
+
+h2 {
+    background-color: grey;
+    color: #005677;
+}
+
+footer{
+    background-color:#005677;
+    color:grey;
+    text-align: center;
+}
+#img2{
+    width: 75px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
